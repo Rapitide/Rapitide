@@ -1,7 +1,7 @@
 <h2 align="center">Tech Stack</h2>
 <p align="center">
   <!-- ここで好きな言語のアイコンを指定できます -->
-  <img src="https://skillicons.dev/icons?i=python,ts,cpp,react,nodejs,docker,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=python,ts,cpp,react,nodejs" />
 </p>
 
 <h2 align="center">GitHub Stats</h2>
